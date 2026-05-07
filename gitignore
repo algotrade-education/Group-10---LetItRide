@@ -1,0 +1,9 @@
+.venv
+venv
+quickfix-1.15.1
+data/test
+src
+aws
+logs
+*/logs
+.git

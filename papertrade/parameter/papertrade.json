@@ -1,0 +1,13 @@
+{
+    "k_days": 14,
+    "rsi_overbought": 70,
+    "rsi_oversold": 30,
+    "volume_multiplier_t": 1.5,
+    "pattern_threshold": 0.6,
+    "initial_asset": 500000000.0,
+    "take_profit_pct": 0.05,
+    "stop_loss_pct": 0.02,
+    "rsi_weight": 0.5,
+    "long_confidence_threshold": 0.4,
+    "short_confidence_threshold": 0.4
+}

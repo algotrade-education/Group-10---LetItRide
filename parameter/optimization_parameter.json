@@ -1,0 +1,22 @@
+{
+    "file_path": "data/data.csv",
+    "train_start_date": "2022-01-04",
+    "train_end_date": "2023-01-04",
+    "test_start_date": "2024-01-04",
+    "end_date": "2025-01-04",
+    "initial_asset": 10000.0,
+    
+    "random_seed": 2004,
+    "no_trials": 200,
+    
+    "k_days": [5, 30],
+    "rsi_overbought": [65, 85],
+    "rsi_oversold": [15, 35],
+    "volume_multiplier_t": [1.0, 3.0],
+    "pattern_threshold": [0.4, 0.9],
+    "take_profit_pct": [0.02, 0.15],
+    "stop_loss_pct": [0.01, 0.08],
+    "rsi_weight": [0.1, 0.9],
+    "long_confidence_thresh": [0.3, 0.7],
+    "short_confidence_thresh": [0.3, 0.7]
+}
