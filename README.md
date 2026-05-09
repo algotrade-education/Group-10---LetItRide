@@ -148,8 +148,9 @@ python optimization.py
 
 ### Optimization Result
 
-The current best result for seed 42 is as follow.
+The current best result for seed 2024 is as follow.
 
+```
 {
     "file_path": "data/data.csv",
     "train_start_date": "2022-01-04",
@@ -168,6 +169,7 @@ The current best result for seed 42 is as follow.
     "long_confidence_threshold": 0.6487354737357189,
     "short_confidence_threshold":  0.6568967787274855
 }
+```
 
 Here the result for the result above:
 
