@@ -43,8 +43,8 @@ Entries are triggered only if $Vol_{ratio} \le t$.
 
 ### 4. Exit Logic
 Positions are closed based on fixed risk-to-reward parameters:
-* **Take Profit:** 10%
-* **Stop Loss:** 5%
+* **Take Profit:** Set by parameter (Default is 5%)
+* **Stop Loss:** Set by parameter (Default is 2%)
 * **Force Close:** Positions are liquidated on the final day of the simulation.
 
 ## Data
