@@ -1,4 +1,4 @@
-# Let It Ride - Group 2
+# Let It Ride - Group 10
 
 > A Confidence-Weighted Algorithmic Strategy Using Momentum and Price Action
 
